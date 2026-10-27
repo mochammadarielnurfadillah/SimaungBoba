@@ -3,7 +3,7 @@ const navMenu = document.querySelector("#nav-menu");
 const orderForm = document.querySelector("#order-form");
 const drinkChoice = document.querySelector("#drink-choice");
 const formStatus = document.querySelector("#form-status");
-const whatsappNumber = "6288256789876";
+const whatsappNumber = "6288294556836";
 
 function closeMenu() {
   navMenu.classList.remove("is-open");
